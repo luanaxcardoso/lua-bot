@@ -1,0 +1,11 @@
+# Ignore o arquivo de variáveis de ambiente
+.env
+
+# Ignore arquivos de cache do Python
+__pycache__/
+*.py[cod]
+
+# Ignore arquivos criados por IDEs comuns
+.vscode/
+.idea/
+*.swp
